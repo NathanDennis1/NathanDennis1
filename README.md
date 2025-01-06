@@ -13,4 +13,9 @@ Currently, I specialize in:
   - **Hypothesis Testing:** T-tests, Chi-square tests
   - **Statistical Inference:** Confidence intervals
   - **A/B Testing:** Experimental design, Analysis of control versus treatment groups
+- **Version Control:** Proficient in using **Git** for version control, including:
+  - **Git Commands:** `git commit`, `git push`, `git pull`, `git merge`, etc.
+  - **Branching & Merging:** Managing branches, resolving merge conflicts.
+  - **Collaboration:** Contributing to open-source projects, reviewing pull requests, managing repositories on GitHub.
+
 
