@@ -29,7 +29,6 @@ I have experience with the following languages, libraries, and tools:
 - **Machine Learning:** Scikit-learn, XGBoost, TensorFlow
 - **Data Visualization:** Matplotlib, Seaborn
 - **Web Scraping:** BeautifulSoup
-- **Others:** Jupyter Notebooks
 
 ### **R:**
 - **Data Manipulation:** dplyr, tidyr
@@ -40,7 +39,6 @@ I have experience with the following languages, libraries, and tools:
   - glm() generalized linear models like logistic regression
   - lmer for mixed-models
   - stats package for tests such as ANOVA
-- **Others:** RMarkdown, Tidyverse
 
 ### **Databases:**
 - MySQL
