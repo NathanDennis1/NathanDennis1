@@ -9,7 +9,7 @@ Currently, I specialize in:
 - **Machine Learning:** Building  models to predict outcomes using techniques such as cross-validation to improve model accuracy and reliability. I am experienced with machine learning methods including:
   - **Supervised Learning:** Regression, Classification
   - **Unsupervised Learning:** Dimensionality Reduction (PCA)
-  - **Deep Learning:** Neural Networks, CNNs, RNNs
+  - **Deep Learning:** Neural Networks, CNNs, RNNs (Currently learning in coursework and self-studying)
   - **Ensemble Methods:** Boosting, Bagging, Random Forest, XGBoost
 - **Statistical Techniques:** Applying statistical methods to analyze data and draw conclusions. I am experienced with:
   - **Hypothesis Testing:** T-tests, Chi-square tests
