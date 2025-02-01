@@ -26,7 +26,7 @@ I have experience with the following languages, libraries, and tools:
 
 ### **Python:**
 - **Data Manipulation:** Pandas, NumPy
-- **Machine Learning:** Scikit-learn, XGBoost, TensorFlow
+- **Machine Learning:** Scikit-learn, XGBoost, TensorFlow (Currently learning)
 - **Data Visualization:** Matplotlib, Seaborn
 - **Web Scraping:** BeautifulSoup
 
