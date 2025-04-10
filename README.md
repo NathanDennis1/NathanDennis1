@@ -1,6 +1,6 @@
 ## Hi, I'm Nathan! 👋
 
-I am currently a Masters in Data Science student at Harvard University seeking a Data Science / Machine Learning / Data Analytics Internship for summer 2025. I graduated March 2024 with a Bachelors in Statistics with a specialization in Data Science and minor in Mathematics, Magna Cum Laude, from the University of Washington. I am passionate about using data science to extract actionable insights from data analysis and build predictive models to solve real world problems.
+I am currently a Masters in Data Science student at Harvard University. I graduated March 2024 with a Bachelors in Statistics with a specialization in Data Science and minor in Mathematics, Magna Cum Laude, from the University of Washington. I am passionate about using data science to extract actionable insights from data analysis and build predictive models to solve real world problems.
 
 ## Techniques & Approaches
 
